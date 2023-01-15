@@ -3,7 +3,7 @@
 Entry-level software engineer
 and student at Ecole 42, Paris
 
-[**CV**](https://drive.google.com/file/d/12LZx7fesTPlLUmKJ_sL5wIPOZpG0FKmL/view?usp=share_link) 
+[**CV**](https://drive.google.com/file/d/18UD7B6byQHTdcugrAdmn9V5h-ppze7UU/view?usp=share_link) 
 | [**LinkedIn**](https://www.linkedin.com/in/paulzhironkin/)
 | [**LeetCode**](https://leetcode.com/paulzhironkin/)
 
