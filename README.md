@@ -1,4 +1,4 @@
-# I'm Paul Zhironkin
+### I'm Paul Zhironkin
 
 Entry-level software engineer
 and student at Ecole 42, Paris
