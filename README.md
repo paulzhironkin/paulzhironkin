@@ -26,5 +26,5 @@ and student at Ecole 42, Paris
 * [**2D game**]() - small 2D game with basic gameplay in C
 * [**Push_swap**]() - sorting array with two stacks algorithm in C
 * [**Philosophers**]() - solution of dining philosophers problem in C
-* [**Minishell**]() - minimum viable realisation of real shell in C
+* [**Minishell**]() - minimum viable realisation of a real shell in C
 
