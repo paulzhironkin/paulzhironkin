@@ -7,7 +7,7 @@ and student at Ecole 42, Paris
 | [**LinkedIn**](https://www.linkedin.com/in/paulzhironkin/)
 | [**LeetCode**](https://leetcode.com/paulzhironkin/)
 
-## Experience:
+## Stack:
 
 * C
 * Unix, Bash, Shell, Make
