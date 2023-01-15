@@ -9,8 +9,7 @@ and student at Ecole 42, Paris
 
 ## Stack:
 
-* C
-* Unix, Bash, Shell, Make
+* C, Unix, Bash, Shell, Make
 * C++ (*currently learning*)
 * Python, Pandas, NumPy, TF
 * Java, PostgreSQL (*currently learning*)
