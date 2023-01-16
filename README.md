@@ -19,7 +19,7 @@ and student at Ecole 42, Paris
 ## Projects:
 
 * [**Libft**](https://github.com/paulzhironkin/libft) - implementation of C Library in C
-* [**Ft_printf**]() - basic recreation of printf() function in C
+* [**Ft_printf**](https://github.com/paulzhironkin/ft_printf) - basic recreation of printf() function in C
 * [**Get_next_line**]() - line reading function-helper in C
 * [**Pipex**]() - inter-process communication mechanism implementation in C
 * [**2D game**]() - small 2D game with basic gameplay in C
