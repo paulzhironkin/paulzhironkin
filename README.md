@@ -18,8 +18,8 @@ and student at Ecole 42, Paris
 
 ## Projects:
 
-* [**Minishell**]() (updating..) - minimum viable realisation of a real shell in C
-* [**Philosophers**]() - solution of dining philosophers problem in C
+* **Minishell** (updating..) - minimum viable realisation of a real shell in C
+* [**Philosophers**](https://github.com/paulzhironkin/philosophers) - solution of dining philosophers problem in C
 * [**2D game**](https://github.com/paulzhironkin/so_long) - small 2D game with basic gameplay in C
 * [**Push_swap**](https://github.com/paulzhironkin/push_swap) - sorting array with two stacks algorithm in C
 * [**Ft_printf**](https://github.com/paulzhironkin/ft_printf) - basic recreation of printf() function in C
