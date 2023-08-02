@@ -1,6 +1,6 @@
 ### I'm Paul Zhironkin
 
-Entry-level software engineer
+Software engineer
 and student at Ecole 42, Paris
 
 [**CV**](https://drive.google.com/file/d/11bSh9ndh1JeGc9TCMaeXxK41qj5XKhvm/view?usp=share_link) 
